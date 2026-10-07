@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Lauren N. Yan"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "TL1 Postdoctoral Fellow\Frontiers Clinical and Translational Science Institute\Department of Family Medicine & Community Health\University of Kansas Medical Center\\Visiting Researcher, Center for Population Health and Outcomes Research\Children's Mercy Research Institute"
+  bio    : "TL1 Postdoctoral Fellow\Frontiers Clinical and Translational Science Institute\Department of Family Medicine & Community Health\University of Kansas Medical Center\Visiting Researcher, Center for Population Health and Outcomes Research\Children's Mercy Research Institute"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
