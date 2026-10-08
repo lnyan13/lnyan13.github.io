@@ -21,3 +21,8 @@ html {
 .author__bio {
   font-size: 0.85em;
 }
+.author__avatar img {
+  @include breakpoint($large) {
+    max-width: 200px;
+  }
+}
