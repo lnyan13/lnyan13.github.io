@@ -56,10 +56,10 @@ Lamichhane B, Sonmez CC, Shrestha S, Pradhan I, Pandey P, Kandel P, Shrestha P, 
 [Read](https://sciencepolitics.org/2026/02/20/donors-can-invert-the-power-dynamics-of-global-mental-health-aid/){: .btn .btn--primary .btn--small}
 
 Qaddour A, Prager G, **Yan L**, & Spiegel P (2024). *The Humanitarian-Development-Peace Nexus: A cross-country case study brief on Mali and South Sudan.* Washington, DC: USAID MOMENTUM.<br>
-[PDF](https://usaidmomentum.org/app/uploads/2024/09/2024-09-HDPN-cross-country-brief-FINAL.pdf){: .btn .btn--primary .btn--small}
+[PDF]({{ '/assets/files/HDPN_xcountry_USAID_2024.pdf' | relative_url }}){: .btn .btn--primary .btn--small}
 
 Qaddour A, **Yan L**, & Spiegel P (2024). *The Humanitarian-Development-Peace Nexus (HDpN) and applications to family planning, reproductive health, and maternal, newborn, and child health (FP/RH/MNCH) interventions in fragile settings: A case study from South Sudan.* Washington, DC: USAID MOMENTUM.<br>
-[Read](https://usaidmomentum.org/resource/the-humanitarian-development-peace-nexus-hdpn-and-applications-to-family-planning-reproductive-health-and-maternal-newborn-and-child-health-interventions-in-fragile-settings/){: .btn .btn--primary .btn--small}
+[PDF]({{ '/assets/files/HDPN_SS_USAID_2024.pdf' | relative_url }}){: .btn .btn--primary .btn--small}
 
 Inter-Agency Standing Committee (2022). *Guidance Note: Addressing Suicide in Humanitarian Settings.* Geneva: IASC. [Co-authored Section 2.2.]<br>
 [Read](https://www.who.int/publications/m/item/addressing-suicide-in-humanitarian-settings--iasc-guidance){: .btn .btn--primary .btn--small}
