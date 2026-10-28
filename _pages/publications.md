@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-For a complete and current list, see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=xfWON1AAAAAJ) or [ORCID profiles](https://orcid.org/0000-0002-8948-3488). Publications before 2022 appear under my former surname, Fischer. \* indicates equal-contribution authorship.
+For an up-to-date list of publications, please see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=xfWON1AAAAAJ) or [ORCID profiles](https://orcid.org/0000-0002-8948-3488). Publications before 2022 appear under my former surname (Fischer). \* Indicates equal-contribution authorship.
 
 ## Peer-reviewed articles
 
