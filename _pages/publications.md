@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-For a complete and current list, see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=xfWON1AAAAAJ) or [ORCID](https://orcid.org/0000-0002-8948-3488). Publications before 2022 appear under my former name, Lauren Fischer. \* indicates co-first authors.
+For a complete and current list, see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=xfWON1AAAAAJ) or [ORCID profiles](https://orcid.org/0000-0002-8948-3488). Publications before 2022 appear under my former surname, Fischer. \* indicates equal-contribution authorship.
 
 ## Peer-reviewed articles
 
@@ -32,6 +32,11 @@ Qaddour A, **Yan L**, Wendo D, Elisama L, Lindahl C, & Spiegel P (2025). Leaders
 
 **Fischer L**, Zigman J, Chowdhury H, Bazle R, Islam M, Hughes J, George M, Price R, Shidhaye R, James A, & Patel R (2020). An assessment of perceptions of justice in Rohingya refugees to identify mental health and psychosocial services needs and inform programme development in Bangladesh: A qualitative survey. *The Lancet Global Health*, 8(S23).<br>
 [Article](https://doi.org/10.1016/S2214-109X%2820%2930164-9){: .btn .btn--primary .btn--small}
+
+## Preprints
+
+Visokay A, Pan S, Griston M, Iasakova P, Nepf M, Peskoff D, Sinha R, Sun J, Thiara I, Wang L, Wu Y, **Yan L**, & McCormick T (2026). The uneven rise of AI-generated web content. *arXiv preprint*.<br>
+[Preprint](https://doi.org/10.48550/arXiv.2610.36631){: .btn .btn--primary .btn--small}
 
 ## Manuscripts under review
 
