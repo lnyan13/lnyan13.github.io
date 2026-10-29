@@ -60,8 +60,7 @@ plugins:
 author:
   name   : "Lauren N. Yan"
   avatar : "/assets/images/LNY_2026.jpeg"
-  bio    : "TL1 Postdoctoral Fellow<br>Frontiers Clinical and Translational Science Institute<br>Department of Family Medicine & Community Health<br>University of Kansas Medical Center<br>Visiting Researcher, Center for Population Health and Outcomes Research<br>Children's Mercy Research Institute"
-  links:
+    bio    : "TL1 Postdoctoral Fellow<br>Frontiers Clinical and Translational Science Institute<br>Department of Family Medicine & Community Health<br>University of Kansas Medical Center<br>Visiting Researcher, Center for Population Health and Outcomes Research<br>Children's Mercy Research Institute<br><br><strong>Contact</strong><br><a href='mailto:lyan2@kumc.edu'>lyan2@kumc.edu</a>"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/lauren-yan-a5a06a30/"
