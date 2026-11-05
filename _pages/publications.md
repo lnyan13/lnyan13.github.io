@@ -31,7 +31,7 @@ Qaddour A, **Yan L**, Wendo D, Elisama L, Lindahl C, & Spiegel P (2025). Leaders
 [Article](https://journals.lww.com/invn/fulltext/2021/19020/barriers,_attitudes,_confidence_and_knowledge_of.11.aspx){: .btn .btn--primary .btn--small}
 
 **Fischer L**, Zigman J, Chowdhury H, Bazle R, Islam M, Hughes J, George M, Price R, Shidhaye R, James A, & Patel R (2020). An assessment of perceptions of justice in Rohingya refugees to identify mental health and psychosocial services needs and inform programme development in Bangladesh: A qualitative survey. *The Lancet Global Health*, 8(S23).<br>
-[Article](https://doi.org/10.1016/S2214-109X%2820%2930164-9){: .btn .btn--primary .btn--small}
+[Abstract](https://doi.org/10.1016/S2214-109X%2820%2930164-9){: .btn .btn--primary .btn--small}
 
 ## Preprints
 
